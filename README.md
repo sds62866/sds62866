@@ -1,4 +1,4 @@
-안녕하세요. 저는 멋쟁이사자보이즈입니다. 👋
+안녕하세요. 저는 멋쟁이사자보이즈입니다 👋
 
 <!--
 **sds62866/sds62866** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
